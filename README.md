@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I'm currently taking exams
+- 🌱 I'm currently learning React, NodeJS, TypeScript + KISS, YAGNI, SOLID
+- 🧠 I have had experience with:
+  - Qt (Python & C++)
+  - PyGTK
+  - Flask
+  - HTML, CSS, JS
+  - Unity
+  - other things that I don't remember
+
 <!--
 **janavour/janavour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
